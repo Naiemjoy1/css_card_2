@@ -1,18 +1,18 @@
 body {
+  font-family: "Poppins", serif;
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 0;
-  padding: 0;
+  color: #575757;
   height: 100vh;
-  color: #575556;
   background: linear-gradient(-140deg, #ff65c5, #fa909d, #fcce6c);
-  font-family: "Poppins", serif;
 }
 
 .card {
   display: flex;
   align-items: center;
+  justify-content: center;
   width: 75vw;
   max-width: 650px;
   padding: 50px 30px 50px 20px;
